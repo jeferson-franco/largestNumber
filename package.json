@@ -1,0 +1,20 @@
+{
+  "name": "largestnumber",
+  "version": "1.0.0",
+  "description": "Given an integer `n`, return the largest number that contains exactly `n` digits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/largestNumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/largestNumber/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/largestNumber#readme"
+}
